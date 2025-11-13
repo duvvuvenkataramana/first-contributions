@@ -38,6 +38,7 @@
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
 - [Vineet Ekka] (https://github.com/vineet-sketch)
+- - [Comet AI](https://github.com/duvvuvenkataramana)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
